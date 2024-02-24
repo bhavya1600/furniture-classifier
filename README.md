@@ -1,6 +1,6 @@
 # Furniture_Classifier
 
-The model is trained using Tensorflow.
+The is a MobileNetV2 model trained using Tensorflow.
 After installing the requirements and downloading the model, simply run the command 
 
     python app.py
