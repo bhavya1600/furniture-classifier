@@ -60,8 +60,3 @@ Contributions to the Furniture Classifier project are welcome. Please read throu
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Contact
-
-For any inquiries or feedback regarding the project, please open an issue in the GitHub repository or directly contact the maintainer:
-
-- Bhavya Mehta - [bhavya1600](https://github.com/bhavya1600)
